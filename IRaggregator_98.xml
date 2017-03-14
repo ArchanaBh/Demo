@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ImpactRadiusResponse>
+  <Campaigns page="1" numpages="1" pagesize="100" total="54" start="0" end="53" uri="/Mediapartners/IR8u3qc8hSeh49432UVN4XFb4N3WfANLo1/Campaigns.xml" firstpageuri="/Mediapartners/IR8u3qc8hSeh49432UVN4XFb4N3WfANLo1/Campaigns.xml?PageSize=100&amp;Page=1" previouspageuri="" nextpageuri="" lastpageuri="/Mediapartners/IR8u3qc8hSeh49432UVN4XFb4N3WfANLo1/Campaigns.xml?PageSize=100&amp;Page=1">
+    <Campaign>
+      <AdvertiserId>39419</AdvertiserId>
+      <AdvertiserName>2bbebe</AdvertiserName>
+      <AdvertiserUrl>http://www.2bbebe.com/</AdvertiserUrl>
+      <CampaignId>1390</CampaignId>
+      <CampaignName>2Bbebe</CampaignName>
+      <CampaignDescription>2b bebe delivers fun, flirty, fashion at affordable prices 24/7! If you are fashion addict on a budget 2b bebe is the place 2b bebe for fresh, exclusive design (and tons of them!). New items arrive daily, and the quality is unbelievable!</CampaignDescription>
+      <CampaignLogoUri>/display-logo-via-campaign/1390.gif</CampaignLogoUri>
+      <PublicInsertionOrderUri>/Mediapartners/IR8u3qc8hSeh49432UVN4XFb4N3WfANLo1/Campaigns/1390/InsertionOrders/5961.xml</PublicInsertionOrderUri>
+      <InsertionOrderStatus>Expired</InsertionOrderStatus>
+      <InsertionOrderUri>/Mediapartners/IR8u3qc8hSeh49432UVN4XFb4N3WfANLo1/Campaigns/1390/InsertionOrders/9198.xml</InsertionOrderUri>
+      <TrackingLink>http://twobstores.7eer.net/c/49432/43677/1390</TrackingLink>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Uri>/Mediapartners/IR8u3qc8hSeh49432UVN4XFb4N3WfANLo1/Campaigns/1390.xml</Uri>
+    </Campaign>
+    <Campaign>
+      <AdvertiserId>32115</AdvertiserId>
+      <AdvertiserName>Allen Edmonds</AdvertiserName>
+      <AdvertiserUrl>http://www.allenedmonds.com/</AdvertiserUrl>
+      <CampaignId>1197</CampaignId>
+      <CampaignName>Allen Edmonds</CampaignName>
+      <CampaignDescription>Allen Edmonds is a leading manufacturer of quality leather mens dress shoes, mens casual shoes, and business mens footwear in a wide variety of sizes and widths. Including matching fine leather mens belts, goods and cedar accessories.</CampaignDescription>
+      <CampaignLogoUri>/display-logo-via-campaign/1197.gif</CampaignLogoUri>
+      <PublicInsertionOrderUri>/Mediapartners/IR8u3qc8hSeh49432UVN4XFb4N3WfANLo1/Campaigns/1197/InsertionOrders/5146.xml</PublicInsertionOrderUri>
+      <InsertionOrderStatus>Active</InsertionOrderStatus>
+      <InsertionOrderUri>/Mediapartners/IR8u3qc8hSeh49432UVN4XFb4N3WfANLo1/Campaigns/1197/InsertionOrders/5146.xml</InsertionOrderUri>
+      <TrackingLink>http://allenedmonds.ojrq.net/c/49432/36306/1197</TrackingLink>
+      <AllowsDeeplinking>true</AllowsDeeplinking>
+      <Uri>/Mediapartners/IR8u3qc8hSeh49432UVN4XFb4N3WfANLo1/Campaigns/1197.xml</Uri>
+    </Campaign>
+  </Campaigns>
+</ImpactRadiusResponse>
